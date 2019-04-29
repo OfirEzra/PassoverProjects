@@ -1,0 +1,2 @@
+CREATE TABLE X(
+	X int NOT NULL)

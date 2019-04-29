@@ -1,0 +1,3 @@
+CREATE TABLE Y(
+	Y int NOT NULL)
+

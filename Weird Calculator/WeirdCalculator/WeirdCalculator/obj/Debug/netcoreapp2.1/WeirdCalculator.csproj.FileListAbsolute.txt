@@ -1,0 +1,11 @@
+C:\Users\OfirE\OneDrive\HackerU\פרוייקט SQL\Weird Calculator\WeirdCalculator\WeirdCalculator\bin\Debug\netcoreapp2.1\WeirdCalculator.deps.json
+C:\Users\OfirE\OneDrive\HackerU\פרוייקט SQL\Weird Calculator\WeirdCalculator\WeirdCalculator\bin\Debug\netcoreapp2.1\WeirdCalculator.runtimeconfig.json
+C:\Users\OfirE\OneDrive\HackerU\פרוייקט SQL\Weird Calculator\WeirdCalculator\WeirdCalculator\bin\Debug\netcoreapp2.1\WeirdCalculator.runtimeconfig.dev.json
+C:\Users\OfirE\OneDrive\HackerU\פרוייקט SQL\Weird Calculator\WeirdCalculator\WeirdCalculator\bin\Debug\netcoreapp2.1\WeirdCalculator.dll
+C:\Users\OfirE\OneDrive\HackerU\פרוייקט SQL\Weird Calculator\WeirdCalculator\WeirdCalculator\bin\Debug\netcoreapp2.1\WeirdCalculator.pdb
+C:\Users\OfirE\OneDrive\HackerU\פרוייקט SQL\Weird Calculator\WeirdCalculator\WeirdCalculator\obj\Debug\netcoreapp2.1\WeirdCalculator.csprojAssemblyReference.cache
+C:\Users\OfirE\OneDrive\HackerU\פרוייקט SQL\Weird Calculator\WeirdCalculator\WeirdCalculator\obj\Debug\netcoreapp2.1\WeirdCalculator.csproj.CoreCompileInputs.cache
+C:\Users\OfirE\OneDrive\HackerU\פרוייקט SQL\Weird Calculator\WeirdCalculator\WeirdCalculator\obj\Debug\netcoreapp2.1\WeirdCalculator.AssemblyInfoInputs.cache
+C:\Users\OfirE\OneDrive\HackerU\פרוייקט SQL\Weird Calculator\WeirdCalculator\WeirdCalculator\obj\Debug\netcoreapp2.1\WeirdCalculator.AssemblyInfo.cs
+C:\Users\OfirE\OneDrive\HackerU\פרוייקט SQL\Weird Calculator\WeirdCalculator\WeirdCalculator\obj\Debug\netcoreapp2.1\WeirdCalculator.dll
+C:\Users\OfirE\OneDrive\HackerU\פרוייקט SQL\Weird Calculator\WeirdCalculator\WeirdCalculator\obj\Debug\netcoreapp2.1\WeirdCalculator.pdb
